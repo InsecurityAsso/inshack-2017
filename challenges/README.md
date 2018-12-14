@@ -25,7 +25,7 @@ If you have any question or need help to write your exploit, please ask!!
 
 # Contributors
 
-* [Paul Dautry](https://github.com/pdautry)
+* [Paul Dautry](https://github.com/koromodako)
 * [Mathis Hammel](https://github.com/kara71)
 * [Lorin Mace](https://github.com/LorinMACE)
 * [Raphaël Sauget](https://github.com/rsauget)

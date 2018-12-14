@@ -1,7 +1,7 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 // file:    multimedia-server.c
 // date:    2017-01-16
-// author:  paul.dautry
+// author:  koromodako
 // purpose:
 //      Source code of multimedia server
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

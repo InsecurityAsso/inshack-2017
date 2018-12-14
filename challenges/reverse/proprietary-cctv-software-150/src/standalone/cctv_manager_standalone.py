@@ -3,7 +3,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # file:    cctv_manager_standalone.py
 # date:    2017-01-12
-# author:  paul dautry
+# author:  koromodako
 # purpose:
 #       Contains full implementation of cctv_manager
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

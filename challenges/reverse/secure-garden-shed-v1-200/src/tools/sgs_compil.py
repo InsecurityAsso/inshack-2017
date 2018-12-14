@@ -3,7 +3,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # file:    sgs_compil.py
 # date:    2017-01-05
-# author:  paul dautry
+# author:  koromodako
 # purpose:
 #      Code du compilateur de fichiers .sgs
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

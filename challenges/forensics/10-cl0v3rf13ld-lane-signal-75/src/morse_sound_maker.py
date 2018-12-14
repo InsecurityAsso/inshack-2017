@@ -3,7 +3,7 @@
 #----------------------------------------------------------------
 # file:    morse_sound_maker.py
 # date:    2016-02-05
-# author:  paul.dautry
+# author:  koromodako
 # purpose:
 #       This file is used to create an audio file containing a
 #       morse signal based on a morse alphabet described in this 

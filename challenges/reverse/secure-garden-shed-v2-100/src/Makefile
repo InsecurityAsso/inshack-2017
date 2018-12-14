@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # file: Makefile
 # date: 2017-03-05
-# author: paul.dautry
+# author: koromodako
 # purpose:
 #		This file is used to build binaries from sources
 #-------------------------------------------------------------------------------

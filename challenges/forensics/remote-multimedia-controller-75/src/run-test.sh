@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 # file:   run-test.sh
 # date:   2017-01-16
-# author: paul.dautry
+# author: koromodako
 # purpose:
 #       Execute trusted clients to create bogus traffic used for the 
 #       Wireshark capture

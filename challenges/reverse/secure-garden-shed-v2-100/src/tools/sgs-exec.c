@@ -1,7 +1,7 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 // file:    sgs-exec.c
 // date:    2017-01-04
-// author:  paul dautry
+// author:  koromodako
 // purpose:
 //      Secure Garden Shed microprocessor emulator
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

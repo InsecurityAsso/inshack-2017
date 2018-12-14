@@ -2,7 +2,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # file:    sgs_config.py
 # date:    2017-01-06
-# author:  paul dautry
+# author:  koromodako
 # purpose:
 #       Classe de configuration du format SGS
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

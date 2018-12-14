@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------
 # file:   Makefile
 # date:   2017-01-16
-# author: paul.dautry
+# author: koromodako
 # purpose:
 #       Makefile used to build exploit shellcodes and other binaries
 #-----------------------------------------------------------------------

@@ -1,7 +1,7 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 // file:    sgs-config.h
 // date:    2017-01-04
-// author:  paul dautry
+// author:  koromodako
 // purpose:
 //      Define shared data structures and constants
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

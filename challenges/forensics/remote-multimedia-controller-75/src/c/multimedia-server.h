@@ -1,7 +1,7 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 // file:    multimedia-server.h
 // date:    2017-01-16
-// author:  paul.dautry
+// author:  koromodako
 // purpose:
 //      Header of the multimedia server implementation
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
