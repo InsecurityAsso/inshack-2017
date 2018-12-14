@@ -25,13 +25,13 @@ If you have any question or need help to write your exploit, please ask!!
 
 # Contributors
 
-* [Paul Dautry](https://github.com/koromodako)
-* [Mathis Hammel](https://github.com/kara71)
-* [Lorin Mace](https://github.com/LorinMACE)
-* [Raphaël Sauget](https://github.com/rsauget)
-* [Florian Billon](https://github.com/ImLemni)
-* [Vincent Falconieri](https://github.com/Zettanux)
-* [Théo Letailleur](https://github.com/Ektoplasma)
-* [Hugo Delval](https://github.com/HugoDelval)
-* [Yassine Zouggari](https://github.com/yzoug)
-* [Lydéric Lefebvre](https://github.com/aas-n)
+* [koromodako](https://github.com/koromodako)
+* [kara71](https://github.com/kara71)
+* [LorinMACE](https://github.com/LorinMACE)
+* [rsauget](https://github.com/rsauget)
+* [ImLemni](https://github.com/ImLemni)
+* [Zettanux](https://github.com/Zettanux)
+* [Ektoplasma](https://github.com/Ektoplasma)
+* [HugoDelval](https://github.com/HugoDelval)
+* [yzoug](https://github.com/yzoug)
+* [aas-n](https://github.com/aas-n)
